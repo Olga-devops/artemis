@@ -16,7 +16,6 @@ variable "deployment_image" {
   default = "docker.fuchicorp.com/artemis-dev:0.2"
 }
 
-
 variable "version" {
   default = "0.1"
 }
