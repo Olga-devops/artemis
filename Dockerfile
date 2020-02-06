@@ -28,4 +28,4 @@ EXPOSE 5000
 #RUN mv ./kubectl /usr/local/bin/kubectl
 
 ## To run this docker image need commmand
-CMD ['python', '/app/artemis.py']
+#CMD ['python', '/app/artemis.py']
